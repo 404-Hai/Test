@@ -1,2 +1,2 @@
 # Test
-wc1
+wc2
